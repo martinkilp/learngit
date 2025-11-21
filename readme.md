@@ -1,2 +1,4 @@
 # Learngit
-1.Main line 1
+- Main line 1
+- main line 2
+- feature line 1
